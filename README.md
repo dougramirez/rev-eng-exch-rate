@@ -1,5 +1,5 @@
 # rev-eng-exch-rate
-COBOL implementation of an exchange rate reverse engineer calculator.
+COBOL implementation of an exchange rate reverse engineering calculator.
 
 ## Getting Started
 You can use brew to install GNU Cobol (Open Cobol). Just type:
